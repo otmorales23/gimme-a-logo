@@ -1,0 +1,27 @@
+{
+  "name": "gimme-a-logo",
+  "version": "1.0.0",
+  "description": "SVG Logo Maker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otmorales23/gimme-a-logo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otmorales23/gimme-a-logo/issues"
+  },
+  "homepage": "https://github.com/otmorales23/gimme-a-logo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.6.3"
+  }
+}
